@@ -157,7 +157,7 @@ nav ol .prev::after {
 
 #info-content p {
     font-size: 20px;
-    line-height: 30px;
+    line-height: 35px;
 }
 
 #navbar {
@@ -218,7 +218,7 @@ nav ol .prev::after {
 }
 
 #row-images img {
-    width: min(500px, 40vw) ;
+    width: min(500px, 40vw);
     object-fit: cover;
     object-position: center;
     margin: 30px;
